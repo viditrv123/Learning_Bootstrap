@@ -1,7 +1,3 @@
-.Intix {
-    font-weight: bold;
-    color: #ff7315;
-}
-.Intix:hover {
-    text-color: #3a3535;
+#title{
+  background-color: #ff4c68;
 }
